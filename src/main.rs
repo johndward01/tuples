@@ -2,8 +2,8 @@ fn main() {
     let tuple = (1.0, 2, 2.22);
     let (x, y, z) = tuple;
     println!("The value of x: {x}");
-    println!("The value of x: {y}");
-    println!("The value of x: {z}");
+    println!("The value of y: {y}");
+    println!("The value of z: {z}");
 
     println!(" ");
 
